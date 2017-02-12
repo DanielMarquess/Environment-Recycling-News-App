@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Environment Recycling News App</string>
+    <string name="no_internet_text_message">No internet connection. When connected, click the button below</string>
+    <string name="no_articles_text_message">No articles found</string>
+    <string name="network_available_toast_message">Network available, try again!</string>
+    <string name="try_again_button">Try again</string>
+</resources>

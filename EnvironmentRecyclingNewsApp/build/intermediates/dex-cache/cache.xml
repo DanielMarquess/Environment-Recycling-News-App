@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\AndroidStudioProjects\EnvironmentRecyclingNewsApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Daniel\AndroidStudioProjects\EnvironmentRecyclingNewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_82ef126f57bb81d23220913e5f171dfb6e8ba9b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\AndroidStudioProjects\EnvironmentRecyclingNewsApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Daniel\AndroidStudioProjects\EnvironmentRecyclingNewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_c9c2025689a6887ff531a2a136942b637358a131\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\AndroidStudioProjects\EnvironmentRecyclingNewsApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Daniel\AndroidStudioProjects\EnvironmentRecyclingNewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_1e2e6eb8f2971b1085ff80284307def99aad56d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\AndroidStudioProjects\EnvironmentRecyclingNewsApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Daniel\AndroidStudioProjects\EnvironmentRecyclingNewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_bfc8730dccd3b474af55f8c394af69b575cb08c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\AndroidStudioProjects\EnvironmentRecyclingNewsApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Daniel\AndroidStudioProjects\EnvironmentRecyclingNewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d2ccf24c97e68c3282714bf393d0fa84bd6da7e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\AndroidStudioProjects\EnvironmentRecyclingNewsApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Daniel\AndroidStudioProjects\EnvironmentRecyclingNewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_8122c5bae42a5aa1e543af1d78ce87f68c379b8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\AndroidStudioProjects\EnvironmentRecyclingNewsApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Daniel\AndroidStudioProjects\EnvironmentRecyclingNewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_80f7bf112e15468ad6541277483d92fdb6213244\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\AndroidStudioProjects\EnvironmentRecyclingNewsApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Daniel\AndroidStudioProjects\EnvironmentRecyclingNewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_db91d5e7612c3de816b6433a0063a07398819a4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\AndroidStudioProjects\EnvironmentRecyclingNewsApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Daniel\AndroidStudioProjects\EnvironmentRecyclingNewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f0c9ef6a77fd475662f08c333e40dd41a5843c46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\AndroidStudioProjects\EnvironmentRecyclingNewsApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Daniel\AndroidStudioProjects\EnvironmentRecyclingNewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_de1c7d6e4624f1c2600b7a5c3cef8a705a9661a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\AndroidStudioProjects\EnvironmentRecyclingNewsApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Daniel\AndroidStudioProjects\EnvironmentRecyclingNewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_71d50ef3b83205ef126d6f1fb06782f8b05afa31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\AndroidStudioProjects\EnvironmentRecyclingNewsApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Daniel\AndroidStudioProjects\EnvironmentRecyclingNewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_56df9a981d04c0d01ffcf1cb7c2324bac2c51bc4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\AndroidStudioProjects\EnvironmentRecyclingNewsApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e8a47833333f38ef65814f83814da14e9db0a872">
+        <dex dex="C:\Users\Daniel\AndroidStudioProjects\EnvironmentRecyclingNewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_061e84a2394ebf077fc4941d5a04c7cdabe6c06e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Daniel\AndroidStudioProjects\EnvironmentRecyclingNewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_82b3262d4700c2be5ec69ef7b548930f4b79e4a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\AndroidStudioProjects\EnvironmentRecyclingNewsApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Daniel\AndroidStudioProjects\EnvironmentRecyclingNewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_3c256c59b7718839ac174669e6fd08b7c0fedbac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\AndroidStudioProjects\EnvironmentRecyclingNewsApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Daniel\AndroidStudioProjects\EnvironmentRecyclingNewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_79c1f30197ab3c7f0d5d45a9cb6933db0db2b689\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\AndroidStudioProjects\EnvironmentRecyclingNewsApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="24037b8f4b80221e12bdc581fa1d3038482e4cb9">
+        <dex dex="C:\Users\Daniel\AndroidStudioProjects\EnvironmentRecyclingNewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6462291980bcfb46a743f93a56a3bb53311e0055\classes.dex" />
+    </item>
+
+</items>
